@@ -1,4 +1,4 @@
-# Schwarzmariskanischer Diskus Verschluesserer
+# Schwarzmaraskanischer Diskus Verschluesserer
 
 This program implements a text encryption and decryption system based on a balanced binary tree structure (red/black).
 The encryption paths for each character are determined based on the tree structure (which is printed on creation), and the resulting encrypted text is visualized as SVG and PNG images.
