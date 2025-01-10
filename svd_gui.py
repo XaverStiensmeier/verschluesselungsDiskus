@@ -192,7 +192,7 @@ def print_tree(tree, level=0):
         print_tree(tree.right, level + 1)
 
 root = tk.Tk()
-root.title("Schwarzmariskanischer Diskus Verschluesserer")
+root.title("Schwarzmaraskanischer Diskus Verschluesserer")
 
 tk.Button(root, text="Create Encryption", command=create_encryption).pack(pady=10)
 tk.Button(root, text="Load Encryption", command=load_encryption).pack(pady=10)
